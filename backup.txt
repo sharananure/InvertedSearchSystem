@@ -1,0 +1,9 @@
+#0;and;1;f1.txt;1;#
+#0;And;1;f1.txt;1;#
+#7;hi;1;f2.txt;1;#
+#7;Hi;1;f2.txt;1;#
+#7;hello;2;f2.txt;2;f1.txt;1;#
+#7;Hello;2;f2.txt;1;f1.txt;1;#
+#26;1abc;1;f2.txt;1;#
+#27;!HI;1;f2.txt;1;#
+#27;!abc;1;f1.txt;1;#
