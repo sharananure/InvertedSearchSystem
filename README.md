@@ -25,37 +25,18 @@
 
 # 📁 File Structure
    Inverted_Search/
-   ├── main.c                   // Main driver program
-   ├── create_database.c         // Handles inverted index creation
-   ├── add_to_list.c             // Manages addition of new words to index
-   ├── display_database.c        // Displays the complete inverted index
-   ├── search_database.c         // Handles word search operations
-   ├── update_database.c         // Updates the database with new files/words
-   ├── save_database.c           // Saves the current database to a file
-   ├── validation.c              // Validates user inputs and file integrity
-   ├── inverted_search.h         // Header file containing function prototypes
-   ├── f1.txt, f2.txt            // Sample text files for demonstration
-   ├── backup.txt                // Backup file for database restoration
-   ├── makefile                  // Automates build process using make
-   └── README.md                 // Project documentation
+       main.c                   // Main driver program
+       create_database.c         // Handles inverted index creation
+       add_to_list.c             // Manages addition of new words to index
+       display_database.c        // Displays the complete inverted index
+       search_database.c         // Handles word search operations
+       update_database.c         // Updates the database with new files/words
+       save_database.c           // Saves the current database to a file
+       validation.c              // Validates user inputs and file integrity
+       inverted_search.h         // Header file containing function prototypes
+       f1.txt, f2.txt            // Sample text files for demonstration
+       backup.txt                // Backup file for database restoration
+       makefile                  // Automates build process using make
+       README.md                 // Project documentation
 
-# 🛠️ How to Build and Run
- 1. Clone the Repository:
-    git clone https://github.com/username/InvertedSearchSystem.git
-     cd InvertedSearchSystem
-
-2. Build the Project:
-   make
-
-3. Run the Executable:
-   ./a.out
-
- 4. Clean the Build (optional):
-    make clean
-
-# 📈 Future Improvements
- - Enhanced algorithms for better performance with large datasets.
- - GUI support for a more user-friendly experience.
- - Multi-threading for faster index creation and searches.
- - Improved error handling and reporting mechanisms.
 
